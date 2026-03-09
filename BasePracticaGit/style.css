@@ -8,8 +8,8 @@ body {
 	font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
 	color: #ecebff;
 	background:
-		radial-gradient(circle at 10% 15%, #2c205e 0, transparent 32%),
-		radial-gradient(circle at 85% 20%, #1e2f66 0, transparent 28%),
+		radial-gradient(circle at 10% 15%, #bd08eb 0, transparent 32%),
+		radial-gradient(circle at 85% 20%, #7403f5 0, transparent 28%),
 		linear-gradient(140deg, #090b1d 0%, #111733 40%, #0b1024 100%);
 	background-size: 150% 150%, 150% 150%, 180% 180%;
 	animation: auroraFlow 22s ease-in-out infinite;
@@ -92,13 +92,13 @@ h1 {
 		linear-gradient(140deg, rgba(24, 31, 71, 0.62) 0%, rgba(11, 15, 35, 0.65) 100%) padding-box,
 		linear-gradient(
 			115deg,
-			rgba(15, 255, 7, 0.9) 0%,
-			rgba(8, 126, 53, 0.9) 16%,
-			rgba(122, 214, 255, 0.9) 34%,
-			rgba(123, 255, 71, 0.9) 50%,
-			rgba(22, 80, 187, 0.9) 66%,
-			rgba(236, 118, 49, 0.9) 82%,
-			rgba(240, 24, 96, 0.9) 100%
+			rgba(240, 22, 22, 0.9) 0%,
+			rgba(240, 100, 8, 0.9) 16%,
+			rgba(241, 186, 4, 0.9) 34%,
+			rgba(247, 243, 2, 0.9) 50%,
+			rgba(123, 252, 2, 0.9) 66%,
+			rgba(10, 247, 2, 0.9) 82%,
+			rgba(1, 255, 115, 0.9) 100%
 		) border-box;
 	border: 1px solid transparent;
 	backdrop-filter: blur(12px);
